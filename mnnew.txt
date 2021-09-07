@@ -1,1 +1,2 @@
 https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View
+https://github.com/wakhub/swift-web-browser
