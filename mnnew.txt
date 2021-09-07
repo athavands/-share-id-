@@ -2,3 +2,4 @@ https://github.com/NikolaGrujic91/Cocoa-macOS-Web-View
 https://github.com/wakhub/swift-web-browser
 https://github.com/meismyles/SwiftWebVC
 https://stackoverflow.com/questions/14814421/gtk-based-mono-webbrowser-on-windows
+https://github.com/popei69/samples/tree/master/PrivateWeb
